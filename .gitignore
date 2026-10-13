@@ -1,0 +1,16 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local database dumps and sample data
+ecoscrapexchange.sql
+ecoscrapexchange_public.sql
+old_sql.sql
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+connection.php
